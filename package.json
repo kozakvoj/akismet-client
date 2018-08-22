@@ -21,5 +21,9 @@
   "homepage": "https://github.com/kozakvoj/akismet-client#readme",
   "dependencies": {
     "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "mocha": "^5.2.0"
   }
 }
