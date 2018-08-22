@@ -1,0 +1,25 @@
+{
+  "name": "akismet-client",
+  "version": "0.0.1",
+  "description": "Unofficial Node client for Akismet APIs (https://www.akismet.com)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha  --recursive ./test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kozakvoj/akismet-client.git"
+  },
+  "author": "Vojtech Kozak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozakvoj/akismet-client/issues"
+  },
+  "homepage": "https://github.com/kozakvoj/akismet-client#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
