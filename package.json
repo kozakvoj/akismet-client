@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/kozakvoj/akismet-client#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "dotenv": "^6.0.0",
